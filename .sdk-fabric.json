@@ -1,0 +1,6 @@
+{
+  "name": "sdkfabric/slack",
+  "description": "Slack PHP SDK managed by SDK Fabric",
+  "namespace": "SdkFabric\\Slack",
+  "website": "https://sdk-fabric.org"
+}
