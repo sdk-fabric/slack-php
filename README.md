@@ -5,7 +5,7 @@ This [SDK](https://github.com/sdk-fabric/slack-php) is managed by the [SDK Fabri
 automatically generate SDKs for every API.
 
 You can find more information about this SDK at [TypeHub](https://typehub.cloud/):
-https://app.typehub.cloud/d/sdkfabric/twilio
+https://app.typehub.cloud/d/sdkfabric/slack
 
 ## Usage
 
