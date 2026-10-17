@@ -1,7 +1,7 @@
 {
   "type": "client-php",
   "require": {
-    "sdkfabric/slack": {
+    "sdkfabric/twilio": {
       "target": "./src",
       "namespace": "SdkFabric\\Slack"
     }
