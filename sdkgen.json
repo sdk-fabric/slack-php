@@ -1,0 +1,9 @@
+{
+  "type": "client-php",
+  "require": {
+    "sdkfabric/slack": {
+      "target": "./src",
+      "namespace": "SdkFabric\\Slack"
+    }
+  }
+}
